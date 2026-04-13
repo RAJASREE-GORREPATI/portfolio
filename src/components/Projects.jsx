@@ -97,13 +97,6 @@ className="bg-blue-600 px-2 py-1 rounded text-xs hover:bg-blue-700"
 GitHub
 </a>
 
-<a
-href={project.demo}
-className="border border-blue-400 px-2 py-1 rounded text-xs hover:bg-blue-400 hover:text-black"
->
-Demo
-</a>
-
 </div>
 
 </div>
