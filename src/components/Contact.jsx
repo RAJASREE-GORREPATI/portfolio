@@ -47,7 +47,7 @@ className="border border-gray-600 px-4 py-2 rounded-lg hover:border-blue-400"
 
 <motion.a
 whileHover={{scale:1.1}}
-href="/resume.pdf"
+href="/rajasree-resume.pdf"
 target="_blank"
 className="bg-blue-600 px-4 py-2 rounded-lg hover:bg-blue-700"
 >
